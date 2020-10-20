@@ -1,5 +1,8 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
-  }
-}System.out.println("hello my names is amr" )
+    System.out.println("Hello customers !");
+  System.out.println("hello welcome to the bank");
+int money = 70.5;
+double bills = 101;
+boolean cents = 1;
+ System.out.println("How much money do you need");
